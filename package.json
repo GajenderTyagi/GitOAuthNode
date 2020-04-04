@@ -1,0 +1,14 @@
+{
+  "name": "gitoauthnode",
+  "version": "1.0.0",
+  "description": "git O Auth utilization ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "gitoauth"
+  ],
+  "author": "GajenderTyagi",
+  "license": "MIT"
+}
